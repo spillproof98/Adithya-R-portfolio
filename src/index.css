@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* custom dark purple theme */
+:root{
+  --bg: #0f1724;
+  --card: #0b1220;
+  --muted: #94a3b8;
+  --accent: #7C3AED;
+}
+body { background-color: var(--bg); color: #e6eef8; }
+
+.scrollbar-thin::-webkit-scrollbar{ height:8px; width:8px}
+.scrollbar-thin::-webkit-scrollbar-thumb{ background: rgba(255,255,255,0.06); border-radius:8px }

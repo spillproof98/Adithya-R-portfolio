@@ -30,6 +30,21 @@ const projects = [
     img: '/simp-task.png',
     url: 'https://simp-task-manager.netlify.app/',
     tags: ['React','LocalStorage','Kanban']
+  },
+  {
+    title: 'Break Seekers — Job Listing Platform',
+    desc: 'A clean job-listing platform with filtering, save-for-later, and detailed job preview. Built with React, Node.js backend, and responsive UI.',
+    img: '/Break-seeker.png',
+    url: 'https://break-seeker.netlify.app/jobs',
+    tags: ['React', 'Node.js', 'Job Board', 'UI/UX']
+  },
+
+  {
+    title: 'SubsBoard — Subscription Analytics Dashboard',
+    desc: 'Subscription management dashboard with charts, metrics, dark mode, plan insights, and monthly revenue analytics.',
+    img: '/subs-board.png',
+    url: 'https://subsboard.netlify.app/app',
+    tags: ['React', 'Dashboard', 'Analytics', 'Charts']
   }
 ]
 

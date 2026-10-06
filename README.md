@@ -1,4 +1,4 @@
-# Adithya R — Portfolio (Vite + React + Tailwind)
+# Adithya Rajavel — Portfolio (Vite + React + Tailwind)
 
 This repo is a production-ready portfolio website scaffolded with Vite, React, Tailwind CSS and Framer Motion.
 It includes your resume and screenshots for the four projects you provided.
